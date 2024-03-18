@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Liubov-Pysana
-- 🌱 I’m currently learning Java Script at the Full Stack Developer Course 
-- 💞️ I’m looking to any practical collaborations in that field
+- 🌱 I’m currently learning Java Script at the Full Stack Developer Course
+- 💞️ I’m looking for practical collaborations in that field
 - 📫 How to reach me: lubov.pysana@gmail.com
 
 <!---
