@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Liubov-Pysana
-- 👀 I’m interested in HTML and CSS
-- 🌱 I’m currently learning HTML and CSS 
-- 💞️ I’m looking to collaborate with the London Tech community
+- 🌱 I’m currently learning Java Script at the Full Stack Developer Course 
+- 💞️ I’m looking to any practical collaborations in that field
 - 📫 How to reach me: lubov.pysana@gmail.com
 
 <!---
